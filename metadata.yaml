@@ -1,0 +1,35 @@
+_repo: Veljekset_44944
+_version: 0.1.0
+alternative_title: Pierre et Jean. Finnish
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Maupassant, Guy de
+    alias: De Maupassant, Guy
+    birthdate: 1850
+    deathdate: 1893
+    gutenberg_agent_id: '306'
+    url: http://www.gutenberg.org/2009/agents/306
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Guy_de_Maupassant
+    - http://fr.wikipedia.org/wiki/Guy_de_Maupassant
+description: ''
+gutenberg_issued: '2014-02-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '44944'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Brothers -- Fiction'
+- !lcsh 'Sibling rivalry -- Fiction'
+- !lcsh 'Normandy (France) -- Fiction'
+- !lcsh 'France -- Social life and customs -- Fiction'
+- !lcc 'PQ'
+- !lcsh 'Inheritance and succession -- Fiction'
+title: Veljekset
+url: http://www.gutenberg.org/ebooks/44944
